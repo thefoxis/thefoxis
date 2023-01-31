@@ -3,7 +3,7 @@
 <h5 align="center">YOU CAN FOLLOW ME HERE</h5>
 <p align="center">
   <a href="https://thefox.is/" rel="follow me">Website</a> •
-  <a href="https://twitter.com/fox" rel="follow me">Twitter</a> •
+  <a href="https://front-end.social/@fox" rel="follow me">Mastodon</a> •
   <a href="https://read.cv/karolina/" rel="follow me">Read.cv</a>  •
   <a href="https://www.linkedin.com/in/karolinaszczur/" rel="follow me">LinkedIn</a>
 </p>
