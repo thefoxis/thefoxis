@@ -1,5 +1,5 @@
 <h3 align="center">Hi there 👋🏻</h3>
-<p align="center">I’m a Co-founder & Product Design Lead at <a href="https://calibreapp.com" rel="follow">Calibre</a>: <br/>an intentionally small company building tools for making the web faster.</p>
+<p align="center">I’m a product designer, front-end developer, and photographer. Most recently, I co-founded <a href="https://calibreapp.com" rel="follow">Calibre</a>: <br/>an intentionally small company building tools for making the web faster.</p>
 <h5 align="center">YOU CAN FOLLOW ME HERE</h5>
 <p align="center">
   <a href="https://karolinaszczur.com" rel="follow me">Website</a> •
