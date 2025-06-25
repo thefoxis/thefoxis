@@ -4,6 +4,5 @@
 <p align="center">
   <a href="https://karolinaszczur.com" rel="follow me">Website</a> •
   <a href="https://front-end.social/@fox" rel="follow me">Mastodon</a> •
-  <a href="https://read.cv/karolina/" rel="follow me">Read.cv</a>  •
   <a href="https://www.linkedin.com/in/karolinaszczur/" rel="follow me">LinkedIn</a>
 </p>
